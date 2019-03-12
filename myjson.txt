@@ -1,0 +1,6 @@
+[{AtmosphericPressure:746,Temperature:3,WeatherCondition:Rain,Weekday:Monday,Wind:11},
+{AtmosphericPressure:746,Temperature:3,WeatherCondition:Rain,Weekday:Monday,Wind:11},
+{AtmosphericPressure:746,Temperature:3,WeatherCondition:Rain,Weekday:Monday,Wind:11},
+{AtmosphericPressure:746,Temperature:3,WeatherCondition:Rain,Weekday:Monday,Wind:11},
+{AtmosphericPressure:746,Temperature:3,WeatherCondition:Rain,Weekday:Monday,Wind:11},
+{AtmosphericPressure:746,Temperature:3,WeatherCondition:Rain,Weekday:Monday,Wind:11}]
